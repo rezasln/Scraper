@@ -1,0 +1,6 @@
+runcommand.txt
+scrapy.cfg
+apikey.py
+venv/
+chocolatescraper/chocolatescraper/__pycache__/
+chocolatescraper/chocolatescraper/spiders/__pycache__/
